@@ -1,0 +1,6 @@
+framework module XWAdSDKAdapterForSIG {
+  umbrella header "XWAdSDKAdapterForSIG.h"
+
+  export *
+  module * { export * }
+}
