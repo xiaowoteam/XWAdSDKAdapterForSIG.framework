@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = "XWAdSDKAdapterForSIG"
-  s.version = "1.0.0.1"
+  s.version = "1.0.0.2"
   s.summary = "XWAdSDKAdapterForSIG."
   s.authors = {"xiaowoteam"=>"xiaowoteam@xiaowoteam.com"}
   s.homepage = "https://github.com/xiaowoteam/XWAdSDKAdapterForSIG.framework"
